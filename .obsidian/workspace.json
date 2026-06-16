@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "a1b803035a8c4b31",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2177ff5186aae24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d68d79c578a6327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Archives/归档索引.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "归档索引"
+            }
+          }
+        ]
+      },
+      {
+        "id": "827039b10380ce9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faedfb2b24185f46",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "554e67e73ff2dca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e84bd0cf3627f41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "175926ae18360b5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "dcd332d5886fc67a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fba0df0a9532de44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7f91a39eee30e20",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0d1ebd6db55c652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "409ff8af4963b51f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 的反向链接列表"
+            }
+          },
+          {
+            "id": "6c467277db22ac13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "2a06117641f0364e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a73ec05bb03863c2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "2c5b8f5b2c2f36b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "175926ae18360b5d",
+  "lastOpenFiles": [
+    "README.md.tmp.19532.39f8bda80d4c",
+    "README.md",
+    "README.md.tmp.19532.748bfb2f1db1",
+    "3-Resources/学习方法/🧠 AI学习操作系统.md",
+    "🏠 知库主页.md.tmp.19532.16467bd8b882",
+    "3-Resources/学习方法/🧠 AI学习操作系统.md.tmp.19532.49349a73d644",
+    "3-Resources/学习方法/🚀 操作手册：快速上手.md",
+    "3-Resources/学习方法/🚀 操作手册：快速上手.md.tmp.19532.ab2da72dc119",
+    "🏠 知库主页.md",
+    "0-Inbox/Claude-2026-06-16-搭建知识库.md",
+    "创建链接.md",
+    "欢迎.md",
+    "领域模板.md",
+    "每日回顾.md",
+    "Claude 对话索引.md",
+    "未命名.base",
+    "未命名.canvas",
+    "未命名 1.base",
+    "未命名 2.base",
+    "未命名 3.base",
+    "未命名 4.base",
+    "Claude 提示词库.md",
+    "1-Projects/p-雅思备考/错题本.md",
+    "1-Projects/p-雅思备考/🎯 雅思备考.md",
+    "1-Projects/项目索引.md",
+    "3-Resources/雅思/语法/语法 MOC.md",
+    "3-Resources/雅思/语法/语法 MOC.md.tmp.9840.6ead37e083c6",
+    "3-Resources/雅思/词汇/词汇 MOC.md",
+    "3-Resources/雅思/口语/口语 MOC.md",
+    "3-Resources/雅思/写作/写作 MOC.md",
+    "3-Resources/雅思/阅读/阅读 MOC.md",
+    "3-Resources/雅思/听力/听力 MOC.md",
+    "1-Projects/p-雅思备考/学习日志.md",
+    "1-Projects/p-雅思备考/作文进化.md",
+    "1-Projects/p-雅思备考/模考记录.md",
+    "1-Projects/p-雅思备考/三工具协同工作流.md",
+    "0-Inbox/收件箱.md"
+  ]
+}
