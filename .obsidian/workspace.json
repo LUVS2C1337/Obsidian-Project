@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b2177ff5186aae24",
+        "id": "f59c10cce4556419",
         "type": "tabs",
         "children": [
           {
-            "id": "6d68d79c578a6327",
+            "id": "96dfe9b8e02d3d68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Archives/归档索引.md",
+                "file": "每日回顾.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "归档索引"
-            }
-          }
-        ]
-      },
-      {
-        "id": "827039b10380ce9c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "faedfb2b24185f46",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "每日回顾"
             }
           }
         ]
@@ -199,22 +183,26 @@
       "bases:新建数据库": false
     }
   },
-  "active": "175926ae18360b5d",
+  "active": "96dfe9b8e02d3d68",
   "lastOpenFiles": [
-    "README.md.tmp.19532.39f8bda80d4c",
+    "欢迎.md",
+    "🏠 知库主页.md",
+    "每日回顾.md",
     "README.md",
-    "README.md.tmp.19532.748bfb2f1db1",
+    "3-Resources/学习方法/飞书技巧/飞书 项目管理完全指南.md",
     "3-Resources/学习方法/🧠 AI学习操作系统.md",
+    "3-Resources/学习方法/如何用四工具备考任何考试.md",
+    "3-Resources/学习方法/如何用四工具学习一项新技能.md",
+    "3-Resources/学习方法/🚀 操作手册：快速上手.md",
+    "4-Archives/归档索引.md",
+    "README.md.tmp.19532.39f8bda80d4c",
+    "README.md.tmp.19532.748bfb2f1db1",
     "🏠 知库主页.md.tmp.19532.16467bd8b882",
     "3-Resources/学习方法/🧠 AI学习操作系统.md.tmp.19532.49349a73d644",
-    "3-Resources/学习方法/🚀 操作手册：快速上手.md",
     "3-Resources/学习方法/🚀 操作手册：快速上手.md.tmp.19532.ab2da72dc119",
-    "🏠 知库主页.md",
     "0-Inbox/Claude-2026-06-16-搭建知识库.md",
     "创建链接.md",
-    "欢迎.md",
     "领域模板.md",
-    "每日回顾.md",
     "Claude 对话索引.md",
     "未命名.base",
     "未命名.canvas",
@@ -227,16 +215,12 @@
     "1-Projects/p-雅思备考/🎯 雅思备考.md",
     "1-Projects/项目索引.md",
     "3-Resources/雅思/语法/语法 MOC.md",
-    "3-Resources/雅思/语法/语法 MOC.md.tmp.9840.6ead37e083c6",
     "3-Resources/雅思/词汇/词汇 MOC.md",
     "3-Resources/雅思/口语/口语 MOC.md",
     "3-Resources/雅思/写作/写作 MOC.md",
     "3-Resources/雅思/阅读/阅读 MOC.md",
     "3-Resources/雅思/听力/听力 MOC.md",
     "1-Projects/p-雅思备考/学习日志.md",
-    "1-Projects/p-雅思备考/作文进化.md",
-    "1-Projects/p-雅思备考/模考记录.md",
-    "1-Projects/p-雅思备考/三工具协同工作流.md",
-    "0-Inbox/收件箱.md"
+    "1-Projects/p-雅思备考/作文进化.md"
   ]
 }
