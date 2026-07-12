@@ -1,3 +1,9 @@
+---
+date: "2026-07-09"
+tags: [project, ai-agent]
+aliases: [3-Git规范]
+---
+
 ## 分支命名
 - feat/xxx: 新功能
 - fix/xxx: 修 Bug

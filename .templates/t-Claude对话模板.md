@@ -2,6 +2,7 @@
 date: "{{date:YYYY-MM-DD}}"
 tags: [claude-session]
 session_id: ""
+aliases: ["{{date:YYYY-MM-DD}} 对话"]
 ---
 # Claude 对话 — {{date:YYYY-MM-DD}}
 

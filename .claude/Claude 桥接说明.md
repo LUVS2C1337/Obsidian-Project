@@ -1,4 +1,5 @@
 ---
+date: "2026-06-17"
 tags: [claude, integration, setup]
 aliases: [Claude桥接, 桥接说明]
 ---

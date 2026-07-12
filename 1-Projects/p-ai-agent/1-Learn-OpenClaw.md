@@ -1,3 +1,9 @@
+---
+date: "2026-07-09"
+tags: [project, ai-agent]
+aliases: [1-Learn-OpenClaw]
+---
+
 ## 核心公式
 
 - Workflow = Node + Node

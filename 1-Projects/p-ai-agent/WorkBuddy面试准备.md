@@ -1,3 +1,9 @@
+---
+date: "2026-07-11"
+tags: [project, ai-agent]
+aliases: [WorkBuddy面试准备]
+---
+
 # WorkBuddy 售后工程师 — 面试准备
 
 ## 岗位理解

@@ -1,3 +1,9 @@
+---
+date: "2026-07-09"
+tags: [project, ai-agent]
+aliases: [2-AI-Knowledge-Hub]
+---
+
 ## 三层架构
 1. LLM 层 - DeepSeek
 2. Agent 层 - Tool Calling

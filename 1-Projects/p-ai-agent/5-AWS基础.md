@@ -1,3 +1,9 @@
+---
+date: "2026-07-09"
+tags: [project, ai-agent]
+aliases: [5-AWS基础]
+---
+
 ## EC2 部署
 1. 创建实例
 2. 配置安全组

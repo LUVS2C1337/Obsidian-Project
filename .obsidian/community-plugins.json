@@ -1,3 +1,7 @@
 [
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "dataview",
+  "templater-obsidian",
+  "quickadd",
+  "calendar"
 ]

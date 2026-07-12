@@ -183,8 +183,18 @@
       "bases:新建数据库": false
     }
   },
-  "active": "52ae15ace2b9f461",
+  "active": "175926ae18360b5d",
   "lastOpenFiles": [
+    "1-Projects/p-ai-agent/面试反问问题清单.md",
+    "1-Projects/p-ai-agent/WorkBuddy面试准备.md",
+    "1-Projects/p-ai-agent/7-面试反问问题.md",
+    "1-Projects/p-ai-agent/6-WorkBuddy面试准备.md",
+    "1-Projects/p-ai-agent/5-AWS基础.md",
+    "1-Projects/p-ai-agent/4-Docker基础.md",
+    "1-Projects/p-ai-agent/3-Git规范.md",
+    "1-Projects/p-ai-agent/2-AI-Knowledge-Hub.md",
+    "1-Projects/p-ai-agent/1-Learn-OpenClaw.md",
+    "1-Projects/p-ai-agent",
     "2-Areas/a-个人学习系统/🌱 个人学习系统.md",
     "2-Areas/面试反问问题清单.md",
     "p-ai-agent/面试反问问题清单.md",
@@ -202,15 +212,6 @@
     "1-Projects/p-备考PMP/学习日志.md",
     "1-Projects/p-备考PMP/收尾过程组.md",
     "1-Projects/p-备考PMP/启动过程组.md",
-    "1-Projects/p-备考PMP/敏捷与传统对比.md",
-    "1-Projects/p-备考PMP/49个过程矩阵.md",
-    "1-Projects/p-备考PMP/12大原则.md",
-    "1-Projects/p-备考PMP/8大绩效域.md",
-    "1-Projects/p-备考PMP/🎯 备考PMP.md",
-    "1-Projects/p-备考AWS/错题本.md",
-    "1-Projects/p-备考AWS/存储.md",
-    "1-Projects/p-备考AWS/安全.md",
-    "1-Projects/p-备考AWS/🎯 备考AWS.md",
     "🕒 最近更新.base",
     "📊 知库总览.base",
     "p-ai-agent",
@@ -221,7 +222,6 @@
     "未命名 3.base",
     "未命名 5.base",
     "未命名.base",
-    "未命名 1.canvas",
-    "未命名 4.base"
+    "未命名 1.canvas"
   ]
 }
