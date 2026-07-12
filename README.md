@@ -51,15 +51,13 @@ Obsidian（记忆系统）、NotebookLM（深度阅读系统）。
 │   │   ├── 计算/存储/网络/数据库/安全/治理/架构模式/集成/迁移/服务对比/分析.md
 │   │   ├── 错题本.md / 学习日志.md
 │   └── p-ai-agent/         → AI Agent 学习 + WorkBuddy 面试准备
+│       ├── 🎯 AI Agent 学习.md       → 项目主页（status: active）
 │       ├── 1-Learn-OpenClaw.md
 │       ├── 2-AI-Knowledge-Hub.md
 │       ├── 3-Git规范.md
 │       ├── 4-Docker基础.md
 │       ├── 5-AWS基础.md
-│       ├── 6-WorkBuddy面试准备.md（→ WorkBuddy面试准备）
-│       ├── 7-面试反问问题.md（→ 2-Areas/面试反问问题清单）
-│       ├── WorkBuddy面试准备.md
-│       └── 面试反问问题清单.md（→ 2-Areas/面试反问问题清单）
+│       └── WorkBuddy面试准备.md
 ├── 2-Areas/                → 持续关注
 │   ├── 领域索引.md
 │   ├── 面试反问问题清单.md
@@ -88,8 +86,8 @@ Obsidian（记忆系统）、NotebookLM（深度阅读系统）。
 ├── 4-Archives/             → 已完成/暂停
 │   └── 归档索引.md
 ├── 🏠 知库主页.md           → 总入口
-├── 📊 知库总览.base         → Obsidian Bases 总览视图
-├── 🕒 最近更新.base         → Obsidian Bases 最近更新视图
+├── 📊 知库总览.md           → Dataview 笔记总览视图
+├── 🕒 最近更新.md           → Dataview 最近更新视图
 └── 每日回顾.md
 ```
 
@@ -106,7 +104,7 @@ Obsidian（记忆系统）、NotebookLM（深度阅读系统）。
 通过 `obsidian-local-rest-api` 插件，Claude Code 可直接读写本库。
 已启用插件：`dataview`、`templater-obsidian`、`quickadd`、`calendar`。
 
-> 提示：`.base` 视图文件需要 Obsidian 1.9+。
+> 说明：原 `.base` 视图已用 **Dataview** 重写为 `📊 知库总览.md` / `🕒 最近更新.md`，兼容 1.9 以下版本。
 
 ---
 
