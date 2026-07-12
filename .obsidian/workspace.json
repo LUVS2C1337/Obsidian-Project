@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f59c10cce4556419",
+        "id": "0f75a99adbfa7f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "96dfe9b8e02d3d68",
+            "id": "52ae15ace2b9f461",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日回顾.md",
+                "file": "2-Areas/面试反问问题清单.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "每日回顾"
+              "title": "面试反问问题清单"
             }
           }
         ]
@@ -183,44 +183,45 @@
       "bases:新建数据库": false
     }
   },
-  "active": "96dfe9b8e02d3d68",
+  "active": "52ae15ace2b9f461",
   "lastOpenFiles": [
-    "README.md.tmp.30556.4d9d36849be5",
-    "1-Projects/p-备考PMP",
-    "README.md.tmp.30556.db461f046049",
-    "1-Projects/p-雅思备考/🎯 雅思备考.md.tmp.28024.60829cbad83b",
-    "1-Projects/p-雅思备考/三工具闭环工作流.md",
-    "欢迎.md",
-    "🏠 知库主页.md",
-    "每日回顾.md",
-    "README.md",
-    "3-Resources/学习方法/飞书技巧/飞书 项目管理完全指南.md",
-    "3-Resources/学习方法/🧠 AI学习操作系统.md",
-    "3-Resources/学习方法/如何用四工具备考任何考试.md",
-    "3-Resources/学习方法/如何用四工具学习一项新技能.md",
-    "3-Resources/学习方法/🚀 操作手册：快速上手.md",
+    "2-Areas/a-个人学习系统/🌱 个人学习系统.md",
+    "2-Areas/面试反问问题清单.md",
+    "p-ai-agent/面试反问问题清单.md",
+    "2-Areas/领域索引.md",
     "4-Archives/归档索引.md",
-    "README.md.tmp.19532.39f8bda80d4c",
-    "README.md.tmp.19532.748bfb2f1db1",
-    "🏠 知库主页.md.tmp.19532.16467bd8b882",
-    "3-Resources/学习方法/🧠 AI学习操作系统.md.tmp.19532.49349a73d644",
-    "3-Resources/学习方法/🚀 操作手册：快速上手.md.tmp.19532.ab2da72dc119",
-    "0-Inbox/Claude-2026-06-16-搭建知识库.md",
-    "创建链接.md",
-    "领域模板.md",
-    "Claude 对话索引.md",
-    "未命名.base",
-    "未命名.canvas",
-    "未命名 1.base",
-    "Claude 提示词库.md",
-    "1-Projects/p-雅思备考/错题本.md",
-    "1-Projects/p-雅思备考/🎯 雅思备考.md",
-    "1-Projects/项目索引.md",
-    "3-Resources/雅思/语法/语法 MOC.md",
+    "p-ai-agent/6-WorkBuddy面试准备.md",
     "3-Resources/雅思/词汇/词汇 MOC.md",
-    "3-Resources/雅思/口语/口语 MOC.md",
-    "3-Resources/雅思/写作/写作 MOC.md",
-    "3-Resources/雅思/阅读/阅读 MOC.md",
-    "3-Resources/雅思/听力/听力 MOC.md"
+    "1-Projects/项目索引.md",
+    "1-Projects/p-雅思备考/作文进化.md",
+    "1-Projects/p-雅思备考/三工具协同工作流.md",
+    "1-Projects/p-雅思备考/三工具闭环工作流.md",
+    "1-Projects/p-雅思备考/学习日志.md",
+    "1-Projects/p-雅思备考/模考记录.md",
+    "1-Projects/p-雅思备考/错题本.md",
+    "1-Projects/p-备考PMP/学习日志.md",
+    "1-Projects/p-备考PMP/收尾过程组.md",
+    "1-Projects/p-备考PMP/启动过程组.md",
+    "1-Projects/p-备考PMP/敏捷与传统对比.md",
+    "1-Projects/p-备考PMP/49个过程矩阵.md",
+    "1-Projects/p-备考PMP/12大原则.md",
+    "1-Projects/p-备考PMP/8大绩效域.md",
+    "1-Projects/p-备考PMP/🎯 备考PMP.md",
+    "1-Projects/p-备考AWS/错题本.md",
+    "1-Projects/p-备考AWS/存储.md",
+    "1-Projects/p-备考AWS/安全.md",
+    "1-Projects/p-备考AWS/🎯 备考AWS.md",
+    "🕒 最近更新.base",
+    "📊 知库总览.base",
+    "p-ai-agent",
+    "未命名 1.base",
+    "3-Resources/开发工具",
+    "未命名.canvas",
+    "未命名 2.base",
+    "未命名 3.base",
+    "未命名 5.base",
+    "未命名.base",
+    "未命名 1.canvas",
+    "未命名 4.base"
   ]
 }
