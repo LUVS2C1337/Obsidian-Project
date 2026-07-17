@@ -1,2 +1,7 @@
-*
-*.md text
+* text=auto
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+.DS_Store binary
+*.png binary
+*.jpg binary
